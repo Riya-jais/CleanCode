@@ -1,1 +1,7 @@
+File 1
+use if condition if (string.IsNullOrEmpty(day)) return false;
+use enum for days
 
+file 2
+use if(n==0||n==1) return 1 fix conditional statement dont use too make if else condition
+  
