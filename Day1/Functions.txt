@@ -29,4 +29,15 @@ The method takes multiple parameters, making it less readable. Consider using an
 
 File 9
 db.Find(client) might return null, causing a NullReferenceException when calling IsActive(),  Add a null check before accessing IsActive()
+
+File 10
+
+
+File 11
+
+
+File 12
+
+
+File 13
  
