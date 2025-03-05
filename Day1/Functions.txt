@@ -22,6 +22,7 @@ File 6
 2.	Use Path.Combine: To handle file paths in a platform-independent way, we can use Path.Combine instead of string concatenation.
 
 File 7
+singleton
 
 File 8
 The method takes multiple parameters, making it less readable. Consider using an object to encapsulate menu properties.
