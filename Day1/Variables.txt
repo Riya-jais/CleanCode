@@ -5,3 +5,7 @@ use enum for days
 file 2
 use if(n==0||n==1) return 1 fix conditional statement dont use too make if else condition
   
+file 3
+1.	Renamed the array l to cities for better readability.
+2.	Replaced the for loop with a foreach loop to iterate over the elements in the cities array.
+3.	Renamed the variable li to city to make it clear that it represents the current city being processed.
