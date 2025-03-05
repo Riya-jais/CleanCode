@@ -18,8 +18,8 @@ File 5
 2.	Handle Other Vehicle Types: Add a return statement or handle cases where the vehicle is neither a Bicycle nor a Car.
 
 File 6
-1.	Use Path.Combine: To handle file paths in a platform-independent way, we can use Path.Combine instead of string concatenation.
-2.	Ensure Directory Exists: Ensure that the directory for temporary files exists before attempting to create a file in it.
+1. Need to functions for true and false.
+2.	Use Path.Combine: To handle file paths in a platform-independent way, we can use Path.Combine instead of string concatenation.
 
 File 7
 
